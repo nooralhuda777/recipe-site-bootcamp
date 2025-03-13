@@ -1,0 +1,16 @@
+body {
+  background-color: bisque;
+}
+h1 {
+  color: rgb(56, 5, 5);
+  font-size: 60px;
+  text-align: center;
+}
+p {
+  color: rgb(75, 67, 67);
+  font-size: 30px;
+}
+ul {
+  color: rgb(75, 54, 8);
+  font-size: 20px;
+}

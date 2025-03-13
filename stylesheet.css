@@ -1,0 +1,42 @@
+h1 {
+  font-size: 80px;
+  color: rgb(122, 13, 46);
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  font-size: 60px;
+  color: rgb(128, 0, 79);
+}
+body {
+  background-image: url(kitchen.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+p {
+  font-size: medium;
+  color: brown;
+  text-align: center;
+}
+a:link {
+  color: rgb(128, 0, 79);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #553ebd;
+  background-color: transparent;
+  text-decoration: none;
+  border: 2px;
+}
+a:hover {
+  color: rgb(255, 0, 221);
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
